@@ -1,4 +1,4 @@
-const url = "http://localhost:4000";
+const url = "https://yoobee-express.herokuapp.com";
 
 // don't add public on the end
 const images_folder = url + "/";
